@@ -1,0 +1,8 @@
+datasets
+pandas
+nltk
+sklearn
+gensim
+scipy
+numpy
+matplotlib
